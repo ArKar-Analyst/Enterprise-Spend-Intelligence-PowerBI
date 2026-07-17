@@ -34,8 +34,8 @@ Power BI Desktop · DAX · Power Query · Star Schema Modeling
 ## Files
 
 - [`Project Dashboard.pbix`](https://github.com/ArKar-Analyst/Enterprise-Spend-Intelligence-PowerBI/blob/main/Project%20Dashboard.pbix) — full report
-- `data/` — source data
-- `screenshots/` — page previews
+- [`data/`](https://github.com/ArKar-Analyst/Enterprise-Spend-Intelligence-PowerBI/tree/main/data) — source data
+- [`screenshots/`](https://github.com/ArKar-Analyst/Enterprise-Spend-Intelligence-PowerBI/tree/main/data) — page previews
 
 ---
 Arkadeep Kar — [GitHub](https://github.com/ArKar-Analyst) [Linkedin](https://www.linkedin.com/in/arkadeepkar/)
