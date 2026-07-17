@@ -1,0 +1,13 @@
+Department_Key,Department_ID,Department_Name,Department_Head,Business_Unit,Location
+1,D001,Finance,Finance Controller,Enterprise Services,Kolkata
+2,D002,IT,IT Director,Technology,Pune
+3,D003,HR,HR Head,People & Culture,Bangalore
+4,D004,Operations,Ops Head,Operations,Hyderabad
+5,D005,Marketing,Marketing Head,Growth,Mumbai
+6,D006,Procurement,Procurement Lead,Supply Chain,Chennai
+7,D007,Legal,Legal Counsel,Governance,Gurugram
+8,D008,Customer Support,Support Manager,Client Services,Kolkata
+9,D009,Analytics,Analytics Lead,Data & Insights,Pune
+10,D010,Sales Ops,Sales Ops Lead,Commercial,Bangalore
+11,D011,Compliance,Compliance Head,Risk & Compliance,Hyderabad
+12,D012,Admin,Admin Manager,Corporate Services,Mumbai

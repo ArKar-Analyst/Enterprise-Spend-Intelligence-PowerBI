@@ -1,0 +1,16 @@
+Cost_Centre_Key,Cost_Centre_ID,Cost_Centre_Name,Cost_Centre_Type,Responsible_Manager
+1,CC-001,Finance Ops,Opex,Manager Finance Ops
+2,CC-002,IT Infrastructure,Capex,Manager IT Infra
+3,CC-003,HR Operations,Opex,Manager HR Ops
+4,CC-004,Operations Support,Shared Services,Manager Ops Support
+5,CC-005,Marketing Analytics,Opex,Manager Marketing
+6,CC-006,Procurement Center,Shared Services,Manager Procurement
+7,CC-007,Legal & Risk,Opex,Manager Legal
+8,CC-008,Customer Support Hub,Opex,Manager Support
+9,CC-009,Data Platform,Capex,Manager Data Platform
+10,CC-010,Sales Enablement,Opex,Manager Sales Ops
+11,CC-011,Compliance Office,Opex,Manager Compliance
+12,CC-012,Admin Services,Shared Services,Manager Admin
+13,CC-013,Cloud Services,Capex,Manager Cloud
+14,CC-014,Facilities,Opex,Manager Facilities
+15,CC-015,Vendor Management,Shared Services,Manager Vendor

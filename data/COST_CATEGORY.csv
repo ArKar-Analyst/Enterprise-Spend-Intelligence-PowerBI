@@ -1,0 +1,11 @@
+Cost_Category_Key,Cost_Category_ID,Category_Name,Category_Type,Sub_Category
+1,C001,Headcount,Opex,Salary & Benefits
+2,C002,IT,Capex,Hardware
+3,C003,Vendor,Opex,Professional Services
+4,C004,Travel,Opex,Domestic Travel
+5,C005,Facilities,Opex,Office Rent
+6,C006,Training,Opex,Learning & Development
+7,C007,Software,Capex,Licences
+8,C008,Cloud,Capex,SaaS Subscription
+9,C009,Recruitment,Opex,Hiring Spend
+10,C010,Utilities,Opex,Power & Internet
