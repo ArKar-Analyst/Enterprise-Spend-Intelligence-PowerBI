@@ -38,4 +38,4 @@ Power BI Desktop · DAX · Power Query · Star Schema Modeling
 - `screenshots/` — page previews
 
 ---
-Arkadeep Kar — [GitHub](https://github.com/ArKar-Analyst)
+Arkadeep Kar — [GitHub](https://github.com/ArKar-Analyst) [Linkedin](https://www.linkedin.com/in/arkadeepkar/)
