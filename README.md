@@ -7,8 +7,8 @@
 
 ## Preview
 
-![Vendor Overview](screenshots/vendor-overview.png)
-![Heatmap](screenshots/heatmap.png)
+![Vendor Overview](https://github.com/ArKar-Analyst/Enterprise-Spend-Intelligence-PowerBI/blob/main/screenshots/Overview.png)
+![Heatmap](https://github.com/ArKar-Analyst/Enterprise-Spend-Intelligence-PowerBI/blob/main/screenshots/Heatmap.png)
 
 ## What it does
 
