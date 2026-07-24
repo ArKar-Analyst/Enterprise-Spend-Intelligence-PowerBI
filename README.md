@@ -23,7 +23,7 @@ A finance/cost-centre team needs to spot budget overruns fast, know which vendor
 ## Highlights
 
 - **Star schema**, 6 tables, **40+ DAX measures**
-- **4-tier variance classification** — auto-flags severity instead of manual review
+- **3-tier variance classification** — auto-flags severity instead of manual review
 - **Native drillthrough** wired vendor → detail page
 - **Context-aware KPIs** — cards recalculate against active filters, explicitly labeled to avoid ambiguity (e.g. *"Critical Vendors — Selected Category"*)
 
